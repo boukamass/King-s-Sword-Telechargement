@@ -4,10 +4,11 @@
 
 # King's Sword
 
-### Le logiciel gratuit pour lire, rechercher, étudier et projeter le Message
+### Le logiciel de projection tout-en-un des églises du Message
 
-Les sermons de frère William Marrion Branham, l'Exposé des Sept Âges de l'Église, la Sainte Bible et les cantiques,
-réunis dans une seule application, utilisable sans Internet.
+Citations des sermons de frère William Marrion Branham, Exposé des Sept Âges de l'Église, Sainte Bible et cantiques :
+tout se projette depuis un seul logiciel, fluide et sans Internet.
+Et en plus, dialoguez désormais avec le Message grâce à l'Assistant IA.
 
 **[⬇ Télécharger King's Sword pour Windows](https://github.com/boukamass/King-s-Sword-Telechargement/releases/latest)**
 
@@ -17,27 +18,28 @@ Gratuit · En français · Fonctionne hors ligne · Windows 10 et 11
 
 ---
 
-## Découvrir King's Sword en une minute
+## Découvrir King's Sword en vidéo
 
 [![Regarder la vidéo de présentation](captures/video-apercu.png)](King-s-Sword-presentation.mp4)
 
-*Cliquez sur l'image pour regarder la vidéo de présentation (1 minute).*
+*Cliquez sur l'image pour regarder la vidéo de présentation (1 min 40).*
 
 ![Lecture d'un sermon et recherche intégrale](captures/lecteur.png)
 
 ## Pourquoi King's Sword ?
 
-Retrouver une citation précise parmi plus de 1 400 sermons, vérifier ce que frère Branham a réellement dit, préparer
-une étude ou une prédication, puis projeter le bon passage pendant le culte : tout cela demandait plusieurs livres,
-plusieurs logiciels et beaucoup de temps. King's Sword réunit tout au même endroit.
+Pendant le culte, projeter une citation, puis un verset, puis un cantique demandait jusqu'ici plusieurs logiciels.
+King's Sword centralise tout : sermons, Bible, chants et annonces se projettent depuis une seule application, de façon
+fluide et facile. Et grâce à son Assistant IA, il devient aussi un outil d'étude très puissant : posez vos questions
+sur tout le Message ou sur quelques sermons choisis, et recevez des réponses appuyées par les citations exactes.
 
 | Ce qui était difficile | Ce que King's Sword apporte |
 |---|---|
+| Jongler entre plusieurs logiciels pour projeter citations, Bible et chants | **Un seul logiciel** : projection sur un second écran ou un vidéoprojecteur en un clic, avec les annonces et les images de fond |
 | Retrouver une phrase dont on ne se souvient qu'à moitié | Une recherche dans toute la bibliothèque en une seconde, avec le passage surligné |
 | Savoir ce que frère Branham enseigne sur un sujet | Un Assistant qui répond **uniquement à partir des sermons**, avec les citations exactes et leurs références |
 | Comparer le Message et les Écritures | La Bible intégrée, avec les numéros Strong et les définitions en français |
 | Préparer une étude et garder ses découvertes | Des notes reliées aux passages, des favoris et un historique |
-| Projeter pendant le culte sans logiciel compliqué | La projection sur un second écran ou un vidéoprojecteur en un clic, avec les annonces et les images |
 
 ## Ce que contient l'application
 
