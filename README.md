@@ -20,7 +20,7 @@ Gratuit · En français · Fonctionne hors ligne · Windows 10 et 11
 
 ## Découvrir King's Sword en vidéo
 
-[![Regarder la vidéo de présentation](captures/video-apercu.png)](https://github.com/boukamass/King-s-Sword-Telechargement/raw/main/King-s-Sword-presentation.mp4)
+[![Regarder la vidéo de présentation](captures/video-apercu.png)](https://www.youtube.com/watch?v=tDzBay852js)
 
 *Cliquez sur l'image pour regarder la vidéo de présentation (1 min 40, 12 Mo).*
 
